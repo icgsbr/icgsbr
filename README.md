@@ -4,10 +4,10 @@
 - 🌱 Estudando html, css, python, java, java script e c#
 - 😄 Pronomes: ele/dele
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/icgsbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icgsbr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icgsbr&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=icgsbr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icgsbr&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
