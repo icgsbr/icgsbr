@@ -1,6 +1,6 @@
 ## Olá! Eu sou Igor Costa 👋
 
-- 🔭 Fazendo parte de projeto para Baterias Moura
+- 🔭 Fazendo parte de projeto de extensão para Baterias Moura
 - 🌱 Estudando html, css, python, java, java script e c#
 - 😄 Pronomes: ele/dele
 
